@@ -44,4 +44,4 @@ For our project, it is used here to represent each drun-kit sound separately.
 - var         ....          The var keyword in JavaScript is used to declare a variable.
 
 # Project Link:
-[Drum-Kit Link](https://1drv.ms/u/c/291798b4f12915c1/ESCZT47zUoVCh0NgRVQ5ySgBP9IUyd8KcVvlI-UQDSt3dQ?e=cYkdsd)
+[Drum-Kit Link]( https://frk786.github.io/drum-kit-project/)
